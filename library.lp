@@ -1,0 +1,10 @@
+(librepcb_library 3021a848-7a3f-4659-aef3-900ad22cd565
+ (name "NXP Semiconductors")
+ (description "Automotive, Security, IoT (unofficial)")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2020-10-24T12:40:48Z)
+ (deprecated false)
+ (url "https://github.com/Tubbles/NXP.lplib")
+)
