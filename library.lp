@@ -7,4 +7,5 @@
  (created 2020-10-24T12:40:48Z)
  (deprecated false)
  (url "https://github.com/Tubbles/NXP.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )
