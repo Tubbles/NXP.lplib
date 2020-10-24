@@ -3,6 +3,7 @@
 ## Description
 
 This is a [LibrePCB](https://librepcb.org) library!
+
 Automotive, Security, IoT (unofficial)
 
 ## License
